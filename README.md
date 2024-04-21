@@ -18,6 +18,12 @@ In this very use case, I have studied the Profit & Loss Statement of AtliQ Hardw
 1. Created DAX Measures for COGS, GROSS MARGIN, GM%.<br>
 2. Formatted the Pivot Table with Conditional formatting in 3 color scale.<br>
 
+Report
+1. By Fiscal Year
+2. By Quarters
+3. By Months
+4. By Market
+
 
 
 
