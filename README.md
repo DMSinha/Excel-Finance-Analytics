@@ -24,6 +24,17 @@ Report
 3. By Months
 4. By Market
 
+Snippets:<br>
+Finance Analytics Quarter Wise<br>
+<img width="491" alt="image" src="https://github.com/DMSinha/Excel-Finance-Analytics/assets/101706831/0159c6f0-d2a4-46e1-afac-5e76f845e4e0"><br>
+
+Finance Analytics Sub Zone wise<br>
+<img width="427" alt="image" src="https://github.com/DMSinha/Excel-Finance-Analytics/assets/101706831/902cd86e-48e2-4450-9693-56f34cdab93f"><br>
+
+Finance Analytics Market Wise<br>
+<img width="507" alt="image" src="https://github.com/DMSinha/Excel-Finance-Analytics/assets/101706831/86d5daa2-3476-4d0a-a586-26ece0d41d7d"><br>
+
+
 
 
 
